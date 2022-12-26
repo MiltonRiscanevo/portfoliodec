@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home_page{
+  background-image: url("https://img.freepik.com/fotos-premium/vista-arriba-abajo-escritorio-adolescentes-computadora-portatil-abierta-mesa-madera-accesorios-espacio-copia_236854-32683.jpg?w=2000");
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+
+}
